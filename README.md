@@ -63,9 +63,8 @@
   
 <!--START_SECTION:activity--> 
 1. 🗣 Project on a PSD to HTML [ZaedTonmoy/PSD to HTML](https://github.com/ZaedTonmoy/PSD-to-HTML_01)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+2. 🎉 Developed a custom page [ZaedTonmoy/Custom Page Building](https://github.com/ZaedTonmoy/PSD-to-HTML_02)
+<!--5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)-->
 <!--END_SECTION:activity-->
 
 </details>
