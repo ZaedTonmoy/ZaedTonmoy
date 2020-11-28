@@ -54,7 +54,7 @@
 - [Get To Know About Me - ZaedTonmoy](https://www.youtube.com/watch?v=ilI5CC6trG0)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCrXy7TGJgFmhrl2sKc4Jvjg)
 
 ---
 
@@ -95,6 +95,6 @@
 [website]: https://zaedtonmoy.me
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Zaedtonmoy
-[youtube]: https://www.youtube.com/channel/UCrXy7TGJgFmhrl2sKc4Jvjg?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCrXy7TGJgFmhrl2sKc4Jvjg
 [instagram]: https://www.instagram.com/zaedtonmoy/
 [linkedin]: https://www.linkedin.com/in/zaedtonmoy/
