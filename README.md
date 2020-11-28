@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zaedtonmoy.me/">
-    <img src="1.jpg"></a>
+    <img src="2.jpg"></a>
 </p>
 
 ### Hi there, I'm Zaed Tonmoy - [ZaedTonmoy][website] 👋
