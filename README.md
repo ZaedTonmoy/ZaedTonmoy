@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://tcno.co/">
-    <img src="/other/img/Banner.png"></a>
+  <a href="https://zaedtonmoy.me/">
+    <img src="1.jpg"></a>
 </p>
 
 ### Hi there, I'm Zaed Tonmoy - [ZaedTonmoy][website] 👋
