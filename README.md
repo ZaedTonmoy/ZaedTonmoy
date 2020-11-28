@@ -5,8 +5,8 @@
 
 ### Hi there, I'm Zaed Tonmoy - [Zaed Tonmoy][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://zaedtonmoy.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Zaedtonmoy)
+<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://zaedtonmoy.me)-->
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Zaedtonmoy)-->
 
 ## I'm a Full Stack Web Developer, welcome to my github!!
 
