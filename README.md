@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Zaed's github stats](https://github-readme-stats.vercel.app/api?username=ZaedTonmoy)](https://github.com/anuraghazra/github-readme-stats)
+  [![Zaed's github stats](https://github-readme-stats.vercel.app/api?username=ZaedTonmoy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
