@@ -13,6 +13,7 @@
 - 🔭 I am available to assist you through any web related problem. Hit me up in my website or in Twitter.
 - 🥅 The main goal to be here to create and help other coders specially the beginners as much as possible.
 - ⚡ Despite having this as my passion, I am a Mechanical Engineer. 
+- 🔭 Contact me: contact@zaedtonmoy.me
 
 ### Spotify Playing 🎧
 
